@@ -1,0 +1,24 @@
+{
+  "name": "txt-tools2025",
+  "version": "1.0.0",
+  "description": "Tweakly Pro — Ultimate Developer Toolbox",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "tools",
+    "developer-tools",
+    "utilities"
+  ],
+  "author": "Houssin Ammour",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  },
+  "devDependencies": {
+    "vite": "^8.0.16"
+  }
+}
