@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://txt-tools2025.vercel.app/sitemap.xml
